@@ -1,23 +1,31 @@
-import logo from './logo.svg';
 import './App.css';
+
+// Dependencies :
+// bootstrap
+// react-bootstrap 
+// react-icons 
+// react-toastify 
+// firebase 
+
+
+// .env starter:
+// .env variable assignment setup:
+// REACT_APP_apiKey=
+// REACT_APP_authDomain=
+// REACT_APP_projectId=
+// REACT_APP_storageBucket=
+// REACT_APP_messagingSenderId=
+// REACT_APP_appId=
+
+
+
+
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      App
     </div>
   );
 }
